@@ -1,4 +1,5 @@
 import random
+import graphics
 
 class Ship:
     """A ship that can be placed on the grid."""
