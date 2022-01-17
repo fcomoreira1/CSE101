@@ -1,0 +1,13 @@
+To: artemisia.gentileschi@polytechnique.edu
+
+This is to notify you of your final results for the CSE101 course, see
+table below.  (Note that the two first and two lowest scores are
+excluded from the result.)
+
+TD1   TD2  TD3   TD4  TD5   TD6   TD7  TD8   TD9   TD10  TD11  TD12  TD13  TD14  Result
+---------------------------------------------------------------------------------------
+9.35  5.7  7.67  6.7  6.03  8.37  4.1  7.52  3.57  9.68  5.24  7.32  8.44  7.53  74.5
+
+Best regards,
+and please get back to me if you have any questions,
+Your Teacher

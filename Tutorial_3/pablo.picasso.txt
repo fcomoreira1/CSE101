@@ -1,0 +1,13 @@
+To: pablo.picasso@polytechnique.edu
+
+This is to notify you of your final results for the CSE101 course, see
+table below.  (Note that the two first and two lowest scores are
+excluded from the result.)
+
+TD1   TD2   TD3   TD4   TD5   TD6   TD7   TD8   TD9   TD10  TD11  TD12  TD13  TD14  Result
+------------------------------------------------------------------------------------------
+4.02  6.23  7.69  5.31  3.29  6.26  4.25  6.41  3.97  9.8   7.19  5.31  6.4   6.34  64.96
+
+Best regards,
+and please get back to me if you have any questions,
+Your Teacher

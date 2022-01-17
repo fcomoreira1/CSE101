@@ -1,0 +1,13 @@
+To: rosa.bonheur@polytechnique.edu
+
+This is to notify you of your final results for the CSE101 course, see
+table below.  (Note that the two first and two lowest scores are
+excluded from the result.)
+
+TD1   TD2   TD3   TD4   TD5   TD6  TD7   TD8   TD9   TD10  TD11  TD12  TD13  TD14  Result
+-----------------------------------------------------------------------------------------
+5.88  6.33  4.37  7.42  6.59  5.6  4.91  7.04  4.71  4.94  3.78  7.42  4.09  8.66  61.66
+
+Best regards,
+and please get back to me if you have any questions,
+Your Teacher

@@ -1,0 +1,13 @@
+To: georges.braque@polytechnique.edu
+
+This is to notify you of your final results for the CSE101 course, see
+table below.  (Note that the two first and two lowest scores are
+excluded from the result.)
+
+TD1   TD2   TD3   TD4  TD5   TD6   TD7  TD8   TD9   TD10  TD11  TD12  TD13  TD14  Result
+----------------------------------------------------------------------------------------
+7.08  4.36  3.94  7.7  8.28  3.06  7.5  8.53  7.56  9.62  5.15  6.06  4.74  3.66  69.08
+
+Best regards,
+and please get back to me if you have any questions,
+Your Teacher

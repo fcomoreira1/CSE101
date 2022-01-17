@@ -1,0 +1,13 @@
+To: leonardo.da-vinci@polytechnique.edu
+
+This is to notify you of your final results for the CSE101 course, see
+table below.  (Note that the two first and two lowest scores are
+excluded from the result.)
+
+TD1  TD2   TD3   TD4   TD5   TD6   TD7   TD8   TD9   TD10  TD11  TD12  TD13  TD14  Result
+-----------------------------------------------------------------------------------------
+5.8  4.75  9.03  6.39  5.05  3.83  5.14  8.93  3.09  8.95  4.68  6.31  7.72  6.94  69.14
+
+Best regards,
+and please get back to me if you have any questions,
+Your Teacher

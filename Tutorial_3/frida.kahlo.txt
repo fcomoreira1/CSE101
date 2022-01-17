@@ -1,0 +1,13 @@
+To: frida.kahlo@polytechnique.edu
+
+This is to notify you of your final results for the CSE101 course, see
+table below.  (Note that the two first and two lowest scores are
+excluded from the result.)
+
+TD1   TD2   TD3  TD4   TD5   TD6   TD7   TD8   TD9   TD10  TD11  TD12  TD13  TD14  Result
+-----------------------------------------------------------------------------------------
+6.29  5.16  5.1  5.86  5.95  3.79  4.49  4.09  8.26  7.07  6.68  8.2   9.71  6.82  68.14
+
+Best regards,
+and please get back to me if you have any questions,
+Your Teacher

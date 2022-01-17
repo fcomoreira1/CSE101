@@ -1,0 +1,13 @@
+To: andy.warhol@polytechnique.edu
+
+This is to notify you of your final results for the CSE101 course, see
+table below.  (Note that the two first and two lowest scores are
+excluded from the result.)
+
+TD1   TD2   TD3  TD4   TD5   TD6   TD7   TD8   TD9   TD10  TD11  TD12  TD13  TD14  Result
+-----------------------------------------------------------------------------------------
+3.07  3.29  3.5  6.54  6.21  9.25  3.42  4.15  6.85  3.57  5.23  9.8   7.68  4.05  63.33
+
+Best regards,
+and please get back to me if you have any questions,
+Your Teacher
