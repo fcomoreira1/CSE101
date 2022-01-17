@@ -4,7 +4,7 @@ This repo contains the weekly projects I did during CSE101 using Python3.
 
 Each week had a main theme, which I briefly included below. For more information about how to run the codes, check the README of each Tutorial's folder (Work in Progress).
 
-- Tutorial 1: Mupltiple Operations with Dates and Times
+- Tutorial 1: Multiple Operations with Dates and Times
 - Tutorial 2: Mastermind Game
 - Tutorial 3: Basic Statistics Library
 - Tutorial 4: Crossword Puzzle
